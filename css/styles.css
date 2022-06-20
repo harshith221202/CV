@@ -1,0 +1,53 @@
+.top-container {
+  background-color: #B9F8D3;
+  position: relative;
+  padding-top: 200px;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  width: 10%;
+  margin: 0 auto 0 auto;
+
+}
+h2{
+  font-size: 20px;
+}
+.middle-container{
+  background-color: #CCF3EE;
+
+}
+.profile{
+  padding-bottom: 50px;
+  padding-top: 50px;
+
+}
+.skill-row{
+  width: 50%
+  margin:100px auto 100px auto;
+  text-align: left;
+  margin-left: 500px;
+  line-height: 2
+}
+
+.bottom-container{
+  background-color: #B8F1B0
+  
+}
+.Bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.Top-cloud{
+  position: absolute;
+  right: 300px;
+  top :50px;
+}
